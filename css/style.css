@@ -43,6 +43,11 @@ aside {
   width: 180px;
 }
 
+.flag-picture {
+  border-radius: 5px;
+  width: 50px;
+}
+
 .title-name {
   color: #284b63;
   font-family: 'Merriweather', serif;
