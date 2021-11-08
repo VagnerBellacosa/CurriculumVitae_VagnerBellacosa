@@ -45,7 +45,12 @@ aside {
 
 .flag-picture {
   border-radius: 5px;
-  width: 50px;
+  width: 40px;
+}
+
+.flag-Logo {
+  border-radius: 5px;
+  width: 40px;
 }
 
 .title-name {
