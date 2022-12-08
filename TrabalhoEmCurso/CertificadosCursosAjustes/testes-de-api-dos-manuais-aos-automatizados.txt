@@ -1,0 +1,34 @@
+São abordagens para testes de API, exceto...
+	Testes de componentes end-to-end
+
+Sobre o Postman, marque a alternativa correta.
+	é uma plataforma completa para design, validação, documentação e compartilhamento de APIs, tendo runtime baseado em Node.js
+
+Sobre ferramentas de testes automatizados assinale a alternativa incorreta.
+	o uso de ferramentas para testes de API independe da necessidade da equipe, basta a empresa escolher a ferramenta mais barata e que a equipe tenha conhecimento
+
+Sobre REST, estão corretas:
+I - É um protocolo de comunicação entre aplicações back-end.
+II- Significa Representational State Transfer 
+III- É baseado somente no uso do protocolo HTTP
+IV - O uso de cache por parte do cliente indica que o servidor guarda o estado da aplicação e seus dados.
+V - Funciona no modelo cliente-servidor
+	II III V
+
+As APIs, possuem e geram diversos benefícios, exceto...
+	tem  melhor custo-beneficio para aplicações em tempo real
+
+Sobre a definição de API, marque a alternativa correta.
+	significa aplication programming interface e tem a função de permitir a comunicação entre aplicações/sistemas a partir de um contrato de serviço
+
+Sobre a importância de testes de API...
+	garantem uma boa cobertura de testes além dos de unidade, evitando que erros cheguem ao nivel de testes de interface, portanto, diminuindo retrabalho
+
+No que consiste um teste de API?
+	é um processo de validação e verificação de requisições e respostas de uma API, garantindo que a mesma se comporte como esperado
+
+Tipo de API que utiliza comunicação bidirecional e é excelente para aplicações de tempo real.
+	baseada em webScocket
+
+São implementações RPC, exceto:
+	html-rpc
